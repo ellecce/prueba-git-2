@@ -9,3 +9,4 @@ Muchas cosas que aprender
 ## local developmente
 
 1. open html in your browser
+2. install step
